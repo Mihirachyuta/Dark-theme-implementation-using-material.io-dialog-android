@@ -6,4 +6,4 @@ Add the following line to your dependencies app gradle file.
 ```
 implementation 'com.google.android.material:material:1.3.0-alpha02'
 ```
-<img src="sample.gif">
+<img src="sample.gif" height="600" width="277">
